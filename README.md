@@ -1,4 +1,4 @@
 # Practise-Figma
-Работа с утилитой Figma в роли верстальщика.
+Working with the Figma utility as a layout designer.
 
-Цель заключается в разработке сайта для путешествий по макету из Figma.
+The goal is to design a travel site based on a layout from Figma.
