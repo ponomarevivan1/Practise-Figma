@@ -1,3 +1,45 @@
 body {
   font-family: "Product Sans";
 }
+.body__banner {
+  position: relative;
+  margin-top: 25px;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.body__banner-text {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 84px;
+  line-height: 112px;
+  left: 120px;
+  top: 300px;
+  max-width: 804px;
+}
+.body__banner-click {
+  position: absolute;
+  width: 200px;
+  height: 60px;
+  top: 559px;
+  left: 135px;
+  background-color: #ff715b;
+}
+.body__banner-click-text {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 500px;
+  font-size: 18px;
+  line-height: 60px;
+  text-align: center;
+  color: #ffff;
+}
+.body__banner-mini {
+  position: absolute;
+  width: 1185px;
+  height: 154px;
+  left: 495px;
+  top: 922px;
+  background: black;
+}
