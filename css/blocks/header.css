@@ -7,6 +7,7 @@
 }
 .header__logo-wrapper {
   margin-left: 120px;
+  cursor: pointer;
 }
 .header__logo-img {
 }
@@ -20,6 +21,7 @@
   justify-content: space-between;
   align-items: center;
   column-gap: 50px;
+  cursor: pointer;
 }
 .header__li {
 }
@@ -37,6 +39,7 @@
   align-items: center;
   margin-right: 120px;
   column-gap: 10px;
+  cursor: pointer;
 }
 .header__div1 {
 }
