@@ -1,0 +1,153 @@
+.body-2__card-map {
+  position: absolute;
+  width: 326px;
+  height: 326px;
+  background: #f8f8f8;
+  margin-top: 204px;
+  margin-left: 255px;
+}
+.body-2__card-map-img {
+  position: absolute;
+  margin-left: 101px;
+  margin-top: 30px;
+}
+.body-2__card-map-text-h {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #2c2c2c;
+  margin-top: 168px;
+  margin-left: 55px;
+}
+.body-2__card-map-text {
+  position: absolute;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #a79997;
+  margin-top: 221px;
+  margin-left: 40px;
+  max-width: 250px;
+}
+.body-2__card-binocular {
+  position: absolute;
+  width: 326px;
+  height: 326px;
+  background: #f8f8f8;
+  margin-top: 204px;
+  margin-left: 611px;
+}
+.body-2__card-binocular-img {
+  position: absolute;
+  margin-left: 113px;
+  margin-top: 44px;
+}
+.body-2__card-binocular-text-h {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #2c2c2c;
+  margin-top: 168px;
+  margin-left: 56px;
+}
+.body-2__card-binocular-text {
+  position: absolute;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #a79997;
+  margin-top: 221px;
+  margin-left: 40px;
+  max-width: 250px;
+}
+.body-2__card-bag {
+  position: absolute;
+  width: 326px;
+  height: 326px;
+  background: #ffff;
+  margin-top: 204px;
+  margin-left: 967px;
+  box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.2);
+}
+.body-2__card-bag-img {
+  position: absolute;
+  margin-left: 119px;
+  margin-top: 44px;
+}
+.body-2__card-bag-text-h {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #2c2c2c;
+  margin-top: 168px;
+  margin-left: 55px;
+}
+.body-2__card-bag-text {
+  position: absolute;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #a79997;
+  margin-top: 221px;
+  margin-left: 40px;
+  max-width: 250px;
+}
+.body-2__card-ukulele {
+  position: absolute;
+  width: 326px;
+  height: 326px;
+  background: #f8f8f8;
+  margin-top: 204px;
+  margin-left: 1323px;
+}
+.body-2__card-ukulele-img {
+  position: absolute;
+  margin-left: 113px;
+  margin-top: 44px;
+}
+.body-2__card-ukulele-text-h {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #2c2c2c;
+  margin-top: 168px;
+  margin-left: 100px;
+}
+.body-2__card-ukulele-text {
+  position: absolute;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #a79997;
+  margin-top: 221px;
+  margin-left: 40px;
+  max-width: 250px;
+}

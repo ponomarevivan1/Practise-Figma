@@ -1,0 +1,190 @@
+body {
+  font-family: "Product Sans";
+}
+.body__banner {
+  position: relative;
+  margin-top: 25px;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.body__banner-arrow-right {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 67px;
+}
+.body__banner-arrow-left {
+  position: absolute;
+  margin-top: 30px;
+}
+.body__banner-line-dlin {
+  position: absolute;
+  margin-top: 51px;
+  margin-left: 144px;
+}
+.body__banner-text-03 {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #ff715b;
+  margin-top: 35px;
+  margin-left: 408px;
+}
+.body__banner-text {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 84px;
+  line-height: 112px;
+  left: 120px;
+  top: 300px;
+  max-width: 804px;
+}
+.body__banner-click {
+  position: absolute;
+  width: 200px;
+  height: 60px;
+  top: 559px;
+  left: 135px;
+  background-color: #ff715b;
+  cursor: pointer;
+}
+.body__banner-click-text {
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 500px;
+  font-size: 18px;
+  line-height: 60px;
+  text-align: center;
+  color: #ffff;
+}
+.body__banner-mini {
+  position: absolute;
+  width: 1185px;
+  height: 154px;
+  left: 495px;
+  top: 922px;
+  background: #ffff;
+  box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.2);
+}
+.body__banner-mini-text1 {
+  position: absolute;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #a79997;
+  margin-left: 45px;
+  margin-top: 45px;
+}
+.body__banner-mini-text2 {
+  position: absolute;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #a79997;
+  margin-left: 345px;
+  margin-top: 45px;
+}
+.body__banner-mini-text3 {
+  position: absolute;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #a79997;
+  margin-left: 645px;
+  margin-top: 45px;
+}
+.body__banner-mini-spisok {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ff715b;
+  margin-left: 45px;
+  margin-top: 74px;
+}
+.body__banner-mini-calendar {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ff715b;
+  margin-left: 345px;
+  margin-top: 74px;
+}
+.body__banner-mini-price {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  color: #ff715b;
+  margin-left: 645px;
+  margin-top: 74px;
+}
+.body__banner-mini-spisok-img {
+  position: absolute;
+  margin-left: 271px;
+  margin-top: 82px;
+}
+.body__banner-mini-calendar-img {
+  position: absolute;
+  margin-left: 570px;
+  margin-top: 78px;
+}
+.body__banner-mini-price-img {
+  position: absolute;
+  margin-left: 876px;
+  margin-top: 78px;
+}
+.body__banner-mini-spisok-line {
+  position: absolute;
+  margin-left: 45px;
+  margin-top: 108px;
+}
+.body__banner-mini-calendar-line {
+  position: absolute;
+  margin-left: 345px;
+  margin-top: 108px;
+}
+.body__banner-mini-price-line {
+  position: absolute;
+  margin-left: 645px;
+  margin-top: 108px;
+}
+.body__banner-mini-click {
+  position: absolute;
+  width: 195px;
+  height: 64px;
+  background: #ff715b;
+  margin-left: 945px;
+  margin-top: 45px;
+}
+.body__banner-mini-click-text {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 37px;
+  margin-top: 20px;
+  cursor: pointer;
+}
