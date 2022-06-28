@@ -1,0 +1,46 @@
+.body-4__lighthouse-main {
+  position: absolute;
+  margin-top: 1525px;
+  margin-left: 255px;
+}
+.body-4__lighthouse-orange-four {
+  position: absolute;
+  margin-top: 1470px;
+  margin-left: 738px;
+}
+.body-4__lighthouse-red-circle {
+  position: absolute;
+  margin-top: 1869px;
+  margin-left: 110px;
+}
+.body-4__lighthouse-all-mini-circles {
+  position: absolute;
+  margin-top: 2132px;
+  margin-left: 177px;
+}
+.body-4__lighthouse-total-tours {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 65px;
+  color: #2c2c2c;
+  margin-top: 1568px;
+  margin-left: 975px;
+  max-width: 690px;
+}
+.body-4__lighthouse-orange-user-img {
+  position: absolute;
+  margin-top: 1766px;
+  margin-left: 975px;
+}
+.body-4__lighthouse-orange-user-head-img {
+  position: absolute;
+  max-width: 11px;
+  max-height: 11px;
+  margin-top: 1783px;
+  margin-left: 1009px;
+}
+.body-4__lighthouse-orange-user-body-img {
+}
