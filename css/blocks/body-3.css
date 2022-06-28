@@ -1,0 +1,119 @@
+.body-3__city-bg-gray {
+  position: absolute;
+  width: 789px;
+  height: 580px;
+  background: #f7f7f7;
+  margin-top: 710px;
+  margin-left: 1132px;
+}
+.body-3__city-text-h {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 65px;
+  color: #2c2c2c;
+  margin-left: 120px;
+  margin-top: 824px;
+  max-width: 419px;
+}
+.body-3__city-text {
+  position: absolute;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #a79997;
+  margin-left: 120px;
+  margin-top: 980px;
+  max-width: 420px;
+}
+.body-3__city-click {
+  position: absolute;
+  width: 195px;
+  height: 64px;
+  background: #ff715b;
+  margin-left: 120px;
+  margin-top: 1111px;
+}
+.body-3__city-click-text {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #ffffff;
+  margin-left: 34px;
+  margin-top: 20px;
+}
+.body-3__city-cuba {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 47.69%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+  position: absolute;
+  margin-left: 615px;
+  margin-top: 800px;
+}
+.body-3__city-cuba-text {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 38px;
+  color: #ffffff;
+  margin-left: 30px;
+  margin-top: 340px;
+}
+.body-3__city-paris {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 47.69%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+  position: absolute;
+  width: 330px;
+  height: 400px;
+  margin-left: 975px;
+  margin-top: 800px;
+}
+.body-3__city-paris-text {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 38px;
+  color: #ffffff;
+  margin-left: 30px;
+  margin-top: 340px;
+}
+.body-3__city-japan {
+  position: absolute;
+  width: 316px;
+  height: 400px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 47.69%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+  margin-left: 1335px;
+  margin-top: 800px;
+}
+.body-3__city-japan-text {
+  position: absolute;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 38px;
+  color: #ffffff;
+  margin-top: 340px;
+  margin-left: 30px;
+}
