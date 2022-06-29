@@ -30,3 +30,73 @@
   margin-left: 975px;
   max-width: 690px;
 }
+.body-4__lighthouse-user-mini-img {
+  position: absolute;
+  margin-left: 975px;
+  margin-top: 1760px;
+}
+.body-4__lighthouse-mini-h {
+  position: absolute;
+  margin-left: 1065px;
+  margin-top: 1773px;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+  color: #000000;
+}
+.body-4__lighthouse-mini-text {
+  position: absolute;
+  margin-left: 1065px;
+  margin-top: 1824px;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  color: #a79997;
+  max-width: 600px;
+}
+.body-4__lighthouse-line {
+  position: absolute;
+  margin-left: 1065px;
+  margin-top: 1945px;
+}
+.body-4__lighthouse-global-mini-img {
+  position: absolute;
+  margin-left: 990px;
+  margin-top: 1991px;
+}
+.body-4__lighthouse-mini-h2 {
+  position: absolute;
+  margin-left: 1065px;
+  margin-top: 1998px;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+  color: #000000;
+}
+.body-4__lighthouse-line2 {
+  position: absolute;
+  margin-left: 1065px;
+  margin-top: 2086px;
+}
+.body-4__lighthouse-headphones-mini-img {
+  position: absolute;
+  margin-left: 990px;
+  margin-top: 2132px;
+}
+.body-4__lighthouse-mini-h3 {
+  position: absolute;
+  margin-left: 1065px;
+  margin-top: 2139px;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 33px;
+  color: #000000;
+}
