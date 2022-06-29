@@ -5,6 +5,12 @@
   background: #f8f8f8;
   margin-top: 204px;
   margin-left: 255px;
+  transition: 0.3s;
+}
+.body-2__card-map:hover {
+  background: #ffff;
+  box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.2);
+  transition: 0.3s;
 }
 .body-2__card-map-img {
   position: absolute;
@@ -43,6 +49,12 @@
   background: #f8f8f8;
   margin-top: 204px;
   margin-left: 611px;
+  transition: 0.3s;
+}
+.body-2__card-binocular:hover {
+  background: #ffff;
+  box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.2);
+  transition: 0.3s;
 }
 .body-2__card-binocular-img {
   position: absolute;
@@ -120,6 +132,12 @@
   background: #f8f8f8;
   margin-top: 204px;
   margin-left: 1323px;
+  transition: 0.3s;
+}
+.body-2__card-ukulele:hover {
+  background: #ffff;
+  box-shadow: 0px 10px 30px 5px rgba(219, 200, 197, 0.2);
+  transition: 0.3s;
 }
 .body-2__card-ukulele-img {
   position: absolute;

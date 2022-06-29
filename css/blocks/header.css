@@ -8,6 +8,11 @@
 .header__logo-wrapper {
   margin-left: 120px;
   cursor: pointer;
+  transition: 0.3s;
+}
+.header__logo-wrapper:hover {
+  transform: scale(1.2);
+  transition: 0.3s;
 }
 .header__logo-img {
 }
@@ -43,13 +48,24 @@
 }
 .header__div1 {
 }
+
 .header__div1-img {
+  transition: 0.3s;
+}
+.header__div1-img:hover {
+  transform: scale(1.2);
+  transition: 0.3s;
 }
 .header__link-div1 {
 }
 .header__div2 {
 }
 .header__div2-img {
+  transition: 0.3s;
+}
+.header__div2-img:hover {
+  transform: scale(1.2);
+  transition: 0.3s;
 }
 .header__link-div2 {
 }
