@@ -1,0 +1,20 @@
+.footer__text {
+  position: absolute;
+  font-family: "Product Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  text-align: center;
+  color: #a79997;
+  margin-left: 734px;
+  margin-top: 5675px;
+}
+.footer__text-orange {
+  color: #ff715b;
+}
+.footer-img {
+  position: absolute;
+  margin-left: 120px;
+  margin-top: 5644px;
+}
